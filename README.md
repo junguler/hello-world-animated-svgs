@@ -1,3 +1,5 @@
+<div align="center">
+
 | language | svg |
 |--|--|
 | Afrikaans | ![](hello-world/Afrikaans.svg) |
@@ -74,3 +76,5 @@
 | Yiddish | ![](hello-world/Yiddish.svg) |
 | Yoruba | ![](hello-world/Yoruba.svg) |
 | Zulu | ![](hello-world/Zulu.svg) |
+
+ <div>

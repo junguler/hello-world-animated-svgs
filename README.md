@@ -1,5 +1,6 @@
-| Afrikaans | ![](hello-world/Afrikaans.svg) |
+| language | svg |
 |--|--|
+| Afrikaans | ![](hello-world/Afrikaans.svg) |
 | Albanian | ![](hello-world/Albanian.svg) |
 | Amharic | ![](hello-world/Amharic.svg) |
 | Arabic | ![](hello-world/Arabic.svg) |
